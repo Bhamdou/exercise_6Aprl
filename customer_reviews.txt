@@ -1,0 +1,5 @@
+In this program, we use the pandas library to read customer reviews from a CSV file and the TextBlob library to
+perform sentiment analysis on each review. We classify the reviews as positive, neutral, or negative based on the 
+sentiment polarity score and calculate the average sentiment score. Finally, we output the results.
+This exercise demonstrates the use of the TextBlob library for sentiment analysis and the pandas library
+for data manipulation, which are essential skills in real work environments.
